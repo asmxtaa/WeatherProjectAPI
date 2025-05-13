@@ -99,7 +99,7 @@ This project can be easily deployed using [**Vercel**](https://vercel.com):
 5. Add your API key in Vercel **Environment Variables**.
 6. Click **Deploy** – and you're live!
 
-🔗 **Live Demo**: [https://weather-project-api-git-main-asmita-mandals-projects.vercel.app](#) 
+🔗 **Live Demo**: [https://weather-project-api-git-main-asmita-mandals-projects.vercel.app/](#) 
 
 ---
 
